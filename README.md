@@ -44,7 +44,7 @@ Ganache sarà eseguito su un server dedicato con indirizzo IP `192.168.17.10`. S
 ### 1. Clona il repository
 Clona il progetto nella tua macchina locale:
 ```bash
-git clone https://github.com/pinprato/RealEstateMarketplace.git
+git clone https://github.com/pinprato/ganache-blockchain.git
 cd RealEstateMarketplace
 ```
 
